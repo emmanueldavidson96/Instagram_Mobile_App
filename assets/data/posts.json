@@ -1,48 +1,48 @@
 [
     {
       "id": "1",
-      "image": "samples/landscapes/beach-boat",
+      "image": "products/sf91wcfh6ueek9w9pbrk",
       "image_url": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/1.jpg",
       "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic repellendus unde blanditiis. Eos fugiat dolorem ea fugit aut sapiente corrupti autem dolores deleniti architecto, omnis, amet unde dignissimos quam minima?",
       "user": {
         "id": "u1",
-        "avatar_url": "samples/people/boy-snow-hoodie",
+        "avatar_url": "products/sf91wcfh6ueek9w9pbrk",
         "image_url": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/2.jpg",
         "username": "vadimnotjustdev"
       }
     },
     {
       "id": "2",
-      "image": "samples/woman-on-a-football-field",
+      "image": "products/sf91wcfh6ueek9w9pbrk",
       "image_url": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/2.jpg",
       "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic repellendus unde blanditiis. Eos fugiat dolorem ea fugit aut sapiente corrupti autem dolores deleniti architecto, omnis, amet unde dignissimos quam minima?",
       "user": {
         "id": "u1",
-        "avatar_url": "samples/people/smiling-man",
+        "avatar_url": "products/sf91wcfh6ueek9w9pbrk",
         "image_url": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/2.jpg",
         "username": "vadimnotjustdev"
       }
     },
     {
       "id": "3",
-      "image": "samples/dessert-on-a-plate",
+      "image": "products/sf91wcfh6ueek9w9pbrk",
       "image_url": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/3.jpg",
       "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic repellendus unde blanditiis. Eos fugiat dolorem ea fugit aut sapiente corrupti autem dolores deleniti architecto, omnis, amet unde dignissimos quam minima?",
       "user": {
         "id": "u1",
-        "avatar_url": "samples/bike",
+        "avatar_url": "products/sf91wcfh6ueek9w9pbrk",
         "image_url": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/3.jpg",
         "username": "vadimnotjustdev"
       }
     },
     {
       "id": "4",
-      "image": "samples/balloons",
+      "image": "products/sf91wcfh6ueek9w9pbrk",
       "image_url": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/4.jpg",
       "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic repellendus unde blanditiis. Eos fugiat dolorem ea fugit aut sapiente corrupti autem dolores deleniti architecto, omnis, amet unde dignissimos quam minima?",
       "user": {
         "id": "u1",
-        "avatar_url": "samples/animals/cat",
+        "avatar_url":"products/sf91wcfh6ueek9w9pbrk",
         "image_url": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/4.jpg",
         "username": "vadimnotjustdev"
       }
